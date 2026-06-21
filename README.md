@@ -75,11 +75,18 @@ print(int(a))
 Converts the value to an integer using the int() function.
 
 Data Types Covered
-Data Type	    Example  	Description
-int	           1, -1	  Whole numbers
-float	          2.0	    Decimal numbers
-complex	       1 + 2j	  Numbers with real and imaginary parts
-bool	      True, False	Logical values used in conditions
+
+Data Type	                Example  	         Description
+
+int	                       1, -1	           Whole numbers
+
+float	                      2.0	             Decimal numbers
+
+complex	                   1 + 2j	           Numbers with real and imaginary parts
+
+bool	                  True, False	         Logical values used in conditions
+
+
 
 Conclusion
 
