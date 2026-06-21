@@ -145,7 +145,6 @@ Converts the value to an integer using the int() function.
 
 
 
-
 Conclusion
 
 This program introduces essential Python concepts such as variables, different built-in data types, checking data types with type(), assigning values in multiple ways, and converting values using int() and float(). These concepts form the foundation for writing more advanced Python programs.
