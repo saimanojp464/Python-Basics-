@@ -1,0 +1,47 @@
+# first program
+a=2
+print(a)
+
+# variable
+a=10
+print(a)
+
+a=b=1
+print(a)
+
+a,b,c=1,2,3
+print(b)
+print(a)
+print(c)
+print(a,b,c)
+
+# data types
+'''
+int
+float
+complex
+boolean
+'''
+a=1
+b=-1
+print(type(a),type(b))
+
+a=True
+b=False
+print(type(a),type(b))
+
+a=2.0
+print(type(float))
+
+v = 1+2j
+print(type(v))
+
+'''
+int()
+float()
+'''
+a=2
+print(float(a))
+
+a=1
+print(int(a))
